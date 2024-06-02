@@ -1,6 +1,1 @@
-project cdi
-project cdi
-project cdi
-project cdi
-Why project after finals?
-project cdi
+project
