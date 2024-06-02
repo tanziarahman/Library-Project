@@ -1,0 +1,23 @@
+Calculus,Anton,3
+Linear Algebra Done Right,  Sheldon Axler, 4
+Linear Algebra and its Applications, David C. Lay, 3
+Introduction to Linear Algebra,  Gilbert Strang, 2
+Electric Machinery Fundamentals, Stephen J. Chapman, 4
+Control Systems Engineering, Norman S. Nise, 3
+Modern Control Engineering, Katsuhiko Ogata, 2
+Theory of Machines, R S Khurmi & J K Gupta, 4
+Mechanical Vibrations, G K Grover, 3
+Engineering Mechanics, S S Bhavikatti, 4
+An Introduction to Mechanics, David Kleppner & Robert Kolenkow, 1
+Structural Dynamics, Martin Williams, 6
+Civil Engineering Materials, Peter A. Claisse, 3
+Dynamics of Structures, Anil K. Chopra, 5
+Design of Steel Structures, S K Duggal, 7
+Basic Civil Engineering, S.S. Bhavikatti, 3
+Digital Logic and Computer Design, Mano, 5
+Fundamentals of Logic Design, Charles H. Roth, 6
+Algorithm Unlocked, Thomas H.Cormen, 5
+Data Structures Using C, Reema Thareja, 3
+Thinking With Data, Max Shron, 5
+Data Model Patterns, David C. Hay, 2
+
